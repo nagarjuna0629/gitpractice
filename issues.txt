@@ -1,0 +1,6 @@
+1. while commiting iwas asked to configure who iam 
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+2. commit must and should have a message else it ask to add meassage that is hard in cmd. so
+	git commit -m "add message"
