@@ -6,7 +6,14 @@ Starting project with no files at all
 	--->git clone url (paste the url),now copy the files and place in the folder created by the gitclone.
 3.cd folder-->git status (shows untracked files)
 4.git add file.html etc...(git add . adds all the untracked files) and git status again(shows changes to be commited)
-5.git commit -m "adding files" (message )
+
+important to configure git before commiting if you account is not added)
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+
+5.git commit -m "adding files" (message is important)
 6. git pull checking wether there are any modifications in project.
 7.git push (end adding the files in github).
 
