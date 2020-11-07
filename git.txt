@@ -1,0 +1,14 @@
+
+Starting project with no files at all
+
+1. go to github.com ---> start a project ---> public, readme file and tittle-->create
+2. click on the code --> clone copy the link in using https-->goto the folder in which your files are-->
+	--->git clone url (paste the url),now copy the files and place in the folder created by the gitclone.
+3.cd folder-->git status (shows untracked files)
+4.git add file.html etc...(git add . adds all the untracked files) and git status again(shows changes to be commited)
+5.git commit -m "adding files" (message )
+6. git pull checking wether there are any modifications in project.
+7.git push (end adding the files in github).
+
+
+
